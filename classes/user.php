@@ -21,9 +21,7 @@ abstract class User {
 }
 
 ?>
-// Additional methods or properties can be added here if needed
 
-// Example of additional methods or properties
 abstract class User {
     // Existing properties and methods
 
